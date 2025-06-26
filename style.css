@@ -332,3 +332,7 @@ hr.divider {
   background: #fff;
   color: var(--accent);
 }
+.site-scale {
+  transform: scale(1.5); /* Increase to desired scale */
+  transform-origin: top center;
+}
